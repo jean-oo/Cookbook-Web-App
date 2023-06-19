@@ -1,0 +1,79 @@
+ 
+body {
+
+    background-image: url('background1.png');
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    flex-direction: column;
+
+}
+
+*{
+
+    font-family: fantasy;
+
+    box-sizing: content-box;
+
+}
+
+form {
+
+    width: 888px;
+
+    border: 3px solid rgb(0, 0, 0);
+
+    padding: 20px;
+
+    background: rgb(156, 136, 136);
+
+    border-radius: 30px;
+
+}
+
+h2 {
+
+    text-align: center;
+
+    margin-bottom: 40px;
+
+    color:rgb(255, 255, 255);
+
+    text-shadow: black;  
+    
+    font-size: 30px;
+
+
+}
+
+input {
+
+    display: block;
+
+    border: 2px solid rgb(0, 0, 0);
+
+    width: 90%;
+
+    padding: 10px;
+
+    margin: 10px auto;
+
+    border-radius: 10px;
+
+}
+
+label {
+
+    color: rgb(255, 255, 255);
+
+    font-size: 20px;
+
+    padding: 10px;
+
+}

@@ -1,0 +1,31 @@
+This is our plan for the project(milestone3)
+
+Time line and task breakdown
+
+Time line:
+
+1. We are going to create all table by the end of this week(November 7th). We are going to start doing insertions next week, and hopefully
+completed by tuesday(November 9th)
+
+2. After that, we are going to implement the queries. (We have approximately 17 of them, each of us will contribute 5~6 from them) by 15th November.
+
+3. And we are going to implement GUI by 22th November.
+
+Task breakdown:
+
+Carol:
+1. create tables: recipe, typeByMethod, typeByRegion1, typeByRegion2, Photos_includes, rating
+2. query:
+
+
+Jean: 
+1. tables: ingredient, contain, account, search, comment
+2. query:
+
+Miao: 
+1. tables: favorite, location1, location2, location3, user_account, manager_account
+2. query:
+
+
+
+
